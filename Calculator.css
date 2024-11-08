@@ -1,0 +1,21 @@
+body{
+    background-image: url('pic1.jpg');
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color: pink;
+    margin-top: 200px;
+    font-size: 45px;
+}
+input{
+    width: 60px;
+    height: 40px;
+    font-size: 30px;
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+}
+input:hover{
+    background-color: green;
+}
